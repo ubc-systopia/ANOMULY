@@ -5,8 +5,8 @@ ANOMULY is a general, unsupervised edge anomaly detection framework for multiple
 
 #### Authors: [Ali Behrouz](https://abehrouz.github.io/), [Margo Seltzer](https://www.seltzer.com/margo/)
 #### [Link to the paper](https://openreview.net/forum?id=UDGZDfwmay)
-#### [Link to the slides]()
 #### [Brief video explanation]()
+#### [Spotlight talk]()
 
 
 
