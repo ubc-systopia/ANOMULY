@@ -36,10 +36,11 @@ Ethereum and Ripple: https://github.com/tdagraphs
 ### Reference
 
 ```
-@article{anomuly2022,
-  title={Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction},
-  author={Ali Behrouz, Margo Seltzer},
-  journal={NeurIPS Temporal Graph Learning Workshop},
-  year={2022},
+@inproceedings{anomuly2022,
+title={Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction},
+author={Ali Behrouz and Margo Seltzer},
+booktitle={NeurIPS 2022 Temporal Graph Learning Workshop },
+year={2022},
+url={https://openreview.net/forum?id=UDGZDfwmay}
 }
 ```
