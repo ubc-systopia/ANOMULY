@@ -1,4 +1,4 @@
-### Datasets
+# Datasets
 Links to datasets used in the paper:  
   
 RM: https://github.com/joint-em/FTCS   
