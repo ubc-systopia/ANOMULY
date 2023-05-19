@@ -27,9 +27,6 @@ DBLP and Amazon: https://github.com/joint-em/firmcore
 Ethereum and Ripple: https://github.com/tdagraphs  
 
 
-### Dataset format
-
-
 
 
 
